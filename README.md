@@ -28,5 +28,7 @@ Você pode visualizar o projeto online aqui: **[Projeto Astronauta](https://anaC
 ---
 
 ## ✒️ Autor
-Desenvolvido por **Ana Clarissi** – [Meu Linkedin](www.linkedin.com/in/anaclarissi)
+Desenvolvido por **Ana Clarissi** – [Acesse meu LinkedIn](https://www.linkedin.com/in/anaclarissi/)
+
+
 
